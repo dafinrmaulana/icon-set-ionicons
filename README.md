@@ -71,7 +71,8 @@ _keep in mind that you need to install <a href="https://nodejs.org/en">Node JS</
     npm run build
     ```
 4. Import the plugin
-  ![How to import](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFqN2NzaWprZnh1NDc1eWhhb3ZtOHRxamZtYnY2eGQxczZkYTJvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kOX2s9h5BYWzcbnC5W/giphy.gif)
+
+    ![How to import](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFqN2NzaWprZnh1NDc1eWhhb3ZtOHRxamZtYnY2eGQxczZkYTJvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kOX2s9h5BYWzcbnC5W/giphy.gif)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -81,7 +82,7 @@ _keep in mind that you need to install <a href="https://nodejs.org/en">Node JS</
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-sebenarnya cara pake plugin ini sama saja seperti biasa nya, tapi ini contohnya
+Actually the way to use this plugin is the same as usual, but here is an example
 
   ![How to import](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRmbzloeW41MXljZDh0czZldm1mNnZucnplNHkzNzl2ZHlwNXZidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nv2qZitxelCLIsGBod/giphy.gif)
 
