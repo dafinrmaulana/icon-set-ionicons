@@ -20,11 +20,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Plugin Preview][product-screenshot]]
+![Plugin Preview][product-screenshot]
 
 Actually, there are a lot of better plugins out there, but because I'm lazy to look for other free plugins out there, I prefer to create my own plugin, so feel free to contribute and make this plugin even better :)
 
-please note that this icon set comes from IonicTeam, thanks a lot to them for making this beautiful premium but free icon.
+please note that this icon set comes from <a href="https://ionic.io/ionicons">IonicTeam</a>, thanks a lot to them for making this beautiful premium but free icon.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -32,7 +32,7 @@ please note that this icon set comes from IonicTeam, thanks a lot to them for ma
 
 ### Built With
 
-*  <a href="https://tailwindcss.com">Tailwind CSS</a>
+* <a href="https://tailwindcss.com">Tailwind CSS</a>
 * <a href="https://ionic.io/ionicons">IonIcons</a>
 
 
